@@ -1,15 +1,6 @@
 
 # Rapport
 
-Mycket tid och problem har gått åt genom att det blivit fel som verkat ligga lokalt i mina 
-inställningar. Tillslut installerade jag om hela android studio för att se om problemen löstes.
-Men då fick jag andra problem så som att gradlebuild inte fungerade, javafiler visades inte och kotlinfiler
-i build fanns och när jag forkade prjektet så forkades projektet utan javafiler. Det var rätt mkt konsitga fel.
-
-Så tillslut bestämde jag mig att jag gör ett nytt försök och testar att göra ett helt nytt projekt
-med koden från https://github.com/LenaSYS/mobileapp-programming-networking användes för att ändå lösa 
-uppgiften men i ett eget projekt. 
-
 Först skapades en recycler view i `activity_main.xml` för att hämta in data från en json url. 
 Därefter lades ytterligare en xml fil till med namnet itemrow.xml för att lista alla berg. 
 
