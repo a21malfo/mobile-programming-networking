@@ -33,4 +33,4 @@ Efter det skapades `RecyclerViewAdapter.java` här inne skapades även en holder
 Även arraylist Mountains skapades i `MainActivity.java` med variabeln mountains.
 
 
-![](![Screenshot_20230819_194504.png](Screenshot_20230819_194504.png)
+![](Screenshot_20230819_194504.png)
